@@ -2,7 +2,7 @@
 
 # XP280 - Combining CI/CD with Transports for Speedy and Controlled Delivery
 
-## Description
+## Description ##
 
 This repository contains the material for the SAP TechEd 2022 session called XP280 - Combining CI/CD
 with Transports for Speedy and Controlled Delivery.
